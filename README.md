@@ -6,4 +6,4 @@
 
 ## What's next?
 
--By May 2023: Databases, Analysis 2, Statistical Learning, Statistical Simulation, Time Series 
+-By May 2023: Databases, Analysis 2, Statistical Learning, Statistical Simulation
